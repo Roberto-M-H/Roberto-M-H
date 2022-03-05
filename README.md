@@ -21,15 +21,15 @@ Passionate software engineer with a track record of delivering solution architec
  <br>
   ![Python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python)
   ![Django](https://img.shields.io/badge/django-black?style=flat-square&logo=django)
-<br>
+ <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-<br>
+ <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
-<br>
+ <br>
   ![Java](https://img.shields.io/badge/java-gray?style=flat-square&logo=java)
   ![Spring Boot](https://img.shields.io/badge/spring_boot-7fff00?style=flat-square&logo=spring_boot)
   ![Spring MVC](https://img.shields.io/badge/Spring_MVC-black?style=flat-square&logo=spring_mvc)
