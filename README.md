@@ -19,8 +19,8 @@ Passionate software engineer with a track record of delivering solution architec
   ![Web API](https://img.shields.io/badge/-WebAPI-007ACC?style=flat-square&logo=Web-API)
   ![Azure](https://img.shields.io/badge/-Azure-007ACC?style=flat-square&logo=Azure)
  <br>
-  ![Python](https://img.shields.io/badge/python-blue?style=flat-square&logo=python)
-  ![Django](https://img.shields.io/badge/django-blue?style=flat-square&logo=django)
+  ![Python](https://img.shields.io/badge/python-563D7C?style=flat-square&logo=python)
+  ![Django](https://img.shields.io/badge/django-black?style=flat-square&logo=django)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
