@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-munoz-huitron-50a919207/)](https://www.linkedin.com/in/roberto-munoz-huitron-50a919207/)
 [![Gmail Badge](https://img.shields.io/badge/-robnogales@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robnogales@hotmail.com)](mailto:robnogales@hotmail.com) 
-[![Medium Badge](https://img.shields.io/badge/-Roberto-Black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@robnogales/)](https://medium.com/@robnogales/)
+[![Medium Badge](https://img.shields.io/badge/-Roberto-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@robnogales/)](https://medium.com/@robnogales/)
 
 Passionate software engineer with a track record of delivering solution architecture, quality, extendable, scalable, and functional code. Enthusiastic about collaborating, mentoring, providing technical leadership, and building large-scale back-end systems & data warehouses that effectively and elegantly address business needs.
 
