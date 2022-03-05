@@ -12,8 +12,15 @@ Passionate software engineer with a track record of delivering solution architec
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-green?style=flat-square&logo=typescript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+ <br>
   ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
+  ![ASP.NET Core](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
+  ![MVC](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
+  ![Web API](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
+  ![Azure](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
+ <br>
   ![Python](https://img.shields.io/badge/python-blue?style=flat-square&logo=python)
+  ![Django](https://img.shields.io/badge/django-blue?style=flat-square&logo=django)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
