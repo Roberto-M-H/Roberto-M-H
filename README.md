@@ -1,15 +1,12 @@
 ## Hi there, I'm [Roberto!](https://github.com/roberto-m-h) �
 
 [![Linkedin Badge](https://img.shields.io/badge/-josuecedeno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-munoz-huitron-50a919207/)](https://www.linkedin.com/in/roberto-munoz-huitron-50a919207/)
-[![Gmail Badge](https://img.shields.io/badge/-robnogales@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robnogales@hotmail.com)](mailto:robnogales@hotmail.com) [![GitHub Josue](https://img.shields.io/github/followers/mister-josuecedeno?label=follow&style=social)](https://github.com/mister-josuecedeno)
+[![Gmail Badge](https://img.shields.io/badge/-robnogales@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robnogales@hotmail.com)](mailto:robnogales@hotmail.com) [![GitHub Josue](https://img.shields.io/github/followers/roberto-m-h?label=follow&style=social)](https://github.com/roberto-m-h)
 
 
-Full-Stack Software Engineer. I create professional websites and web apps that are secure, elegant and user friendly.
+Passionate software engineer with a track record of delivering solution architecture, quality, extendable, scalable, and functional code. Enthusiastic about collaborating, mentoring, providing technical leadership, and building large-scale back-end systems & data warehouses that effectively and elegantly address business needs.
 
-Self-motivated problem solver looking to drive technical projects from design, implementation, deployment, and monitoring. In addition to coding, I have 20+ years of analytics, training, and management experience.
-
-� I’m currently learning ... 
-  Unit Testing, Documentation
+� Have industrial and research experience in JS, C#/.NET, Python/Django, REST API and Microservices framework.
 
 
 ## Languages and Tools:
@@ -28,10 +25,10 @@ Self-motivated problem solver looking to drive technical projects from design, i
 ![visitors](https://komarev.com/ghpvc/?username=mister-josuecedeno&color=brightgreen)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mister-josuecedeno&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-josuecedeno&layout=compact&theme=vue&hide_title=true&hide_border=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=roberto-m-h&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-m-h&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 
 <!--
-**mister-josuecedeno/mister-josuecedeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**roberto-m-h/roberto-m-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
