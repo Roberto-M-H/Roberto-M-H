@@ -30,9 +30,9 @@ Passionate software engineer with a track record of delivering solution architec
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
 <br>
-  ![Java](https://img.shields.io/badge/java-800080?style=flat-square&logo=django)
-  ![Spring Boot](https://img.shields.io/badge/spring_boot-black?style=flat-square&logo=django)
-  ![Spring MVC](https://img.shields.io/badge/django-black?style=flat-square&logo=django)
+  ![Java](https://img.shields.io/badge/java-ffa500?style=flat-square&logo=django)
+  ![Spring Boot](https://img.shields.io/badge/spring_boot-7fff00?style=flat-square&logo=django)
+  ![Spring MVC](https://img.shields.io/badge/Spring_MVC-black?style=flat-square&logo=django)
   
 
 ![visitors](https://komarev.com/ghpvc/?username=mister-josuecedeno&color=brightgreen)
