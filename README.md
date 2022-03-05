@@ -5,7 +5,7 @@
 
 Passionate software engineer with a track record of delivering solution architecture, quality, extendable, scalable, and functional code. Enthusiastic about collaborating, mentoring, providing technical leadership, and building large-scale back-end systems & data warehouses that effectively and elegantly address business needs.
 
-� Have industrial and research experience in JS, C#/.NET, Python/Django, REST API and Microservices framework.
+🌱 Have industrial and research experience in JS, C#/.NET, Python/Django, REST API and Microservices framework.
 
 
 ## Languages and Tools:
