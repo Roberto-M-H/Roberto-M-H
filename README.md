@@ -29,7 +29,6 @@ Passionate software engineer with a track record of delivering solution architec
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
- <br>
   ![Java](https://img.shields.io/badge/java-gray?style=flat-square&logo=java)
   ![Spring Boot](https://img.shields.io/badge/spring_boot-7fff00?style=flat-square&logo=spring_boot)
   ![Spring MVC](https://img.shields.io/badge/Spring_MVC-black?style=flat-square&logo=spring_mvc)
