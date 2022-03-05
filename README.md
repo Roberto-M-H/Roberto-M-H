@@ -14,9 +14,9 @@ Passionate software engineer with a track record of delivering solution architec
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
  <br>
   ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
-  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-007ACC?style=flat-square&logo=ASP.NET-Core)
+  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-563D7C?style=flat-square&logo=ASP.NET-Core)
   ![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat-square&logo=MVC)
-  ![Web API](https://img.shields.io/badge/-WebAPI-007ACC?style=flat-square&logo=Web-API)
+  ![Web API](https://img.shields.io/badge/-Web_API-007ACC?style=flat-square&logo=Web-API)
   ![Azure](https://img.shields.io/badge/-Azure-007ACC?style=flat-square&logo=Azure)
  <br>
   ![Python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python)
